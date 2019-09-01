@@ -3,7 +3,7 @@
 ## Between coordinators
 
 * IM - Telegram
-* Offline conversations - Coodinators Google Group
+* Offline conversations - Coordinators Google Group
 * PRs against Github repos (to open suggestions, propose changes...)
 
 ## Between meetup group members
@@ -18,7 +18,7 @@
 
 ## Group members to coordinators
 
-* Coodinators Google Group
+* Coordinators Google Group
 * Meetup.com messaging
 
 ## Open questions
