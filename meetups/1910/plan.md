@@ -25,4 +25,5 @@ TBD
 
 ## Location
 
-TBD
+TBD. Candidates:
+* Adevinta

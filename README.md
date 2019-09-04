@@ -3,8 +3,8 @@ Coordination &amp; planning resources for Continuous Delivery Barcelona
 
 ## Resources in this repository
 
-* [Group objectives](https://github.com/cdbarcelona/meetup_coordination/blob/master/objectives.md)
-* [Communication channels](https://github.com/cdbarcelona/meetup_coordination/blob/master/communication.md)
+* [Group objectives](objectives.md)
+* [Communication channels](communication.md)
 * [Meeting plans](https://github.com/cdbarcelona/meetup_coordination/blob/master/plan.md)
 
 ## Other resources
