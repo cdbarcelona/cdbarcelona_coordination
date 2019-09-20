@@ -4,6 +4,10 @@
 
 Special one: collaborative organization / no pre-defined lead
 
+## Date
+
+TBD
+
 ## Agenda
 
 * Hello world (2.0)
